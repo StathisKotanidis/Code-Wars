@@ -5,6 +5,7 @@ A repository filled with codewars challenges (katas). Currently at the top  40% 
 
 ## How It's made 
 Tech used: Javascript
+
 First thing to do every morning, helps my brain 'wake' up.
 
 ## Optimizations
