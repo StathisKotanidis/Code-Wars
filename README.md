@@ -7,8 +7,8 @@ A repository filled with codewars challenges (katas). Currently at the top  40% 
 Tech used: Javascript
 First thing to do every morning, helps my brain 'wake' up.
 
-##Optimizations
+## Optimizations
 I consistently refactor and optimize my code, sometimes for efficiency, sometimes for readability.
 
-##Lessons Learned
+## Lessons Learned:
 Sometimes i might get stuck in some of these questions, but that's totally fine. The great thing about this platform is than i can find community solutions on the given challenge, take my time analyzing them and truly understand them and then solve it myself! So i am still keep learning!
