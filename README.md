@@ -1,6 +1,7 @@
 # CodeWars ⚔️
 
-![Screenshot 2024-08-29 235346](https://github.com/user-attachments/assets/4badba3d-19cd-4e4c-905d-8c461b511c3e)
+![codewars](https://github.com/user-attachments/assets/bce9ea82-3989-4d36-a151-bc27f6ad20b5)
+
 A repository filled with codewars challenges (katas). Currently at the top  40% of the global leaderboard, completing 1-3 challenges daily.
 
 ## How It's Made:
