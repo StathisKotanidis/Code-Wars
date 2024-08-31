@@ -3,7 +3,6 @@ function lastSurvivor(letters, coords) {
 
   for (let i = 0; i < coords.length; i++) {
     stringArray.splice(coords[i], 1);
-    console.log(`Array after the ${i + 1} splicing: [${stringArray}]`);
   }
 
   return stringArray.join("");
